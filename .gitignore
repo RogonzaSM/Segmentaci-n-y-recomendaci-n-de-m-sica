@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# SQLite database (si no quieres subirla completa)
+*.db
+
+# Logs
+*.log
