@@ -14,7 +14,6 @@ Se quiere llegar a entender mejor cómo es que el entender a los clientes del me
   - Extraer y limpiar datos con SQL.
   - Analizar patrones de compra y segmentar clientes.
   - Construir un modelo de recomendación musical.
-  - Predecir ingresos futuros por cliente.
   - Presentar resultados en dashboards y conclusiones claras.
 
 ---
